@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/sivaram/Downloads/MyAndroidApp1/app/build/intermediates/res/merged/debug/layout/webview.xml",
+        "source": "/home/sivaram/Downloads/MyAndroidApp1/app/src/main/res/layout/webview.xml"
+    },
+    {
+        "merged": "/home/sivaram/Downloads/MyAndroidApp1/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/sivaram/Downloads/MyAndroidApp1/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/csh/AndroidStudioProjects/MyAndroidApp1/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/csh/AndroidStudioProjects/MyAndroidApp1/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/csh/AndroidStudioProjects/MyAndroidApp1/app/build/intermediates/res/merged/debug/layout/webview.xml",
+        "source": "/home/csh/AndroidStudioProjects/MyAndroidApp1/app/src/main/res/layout/webview.xml"
+    }
+]

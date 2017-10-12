@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Thu Sep 28 14:41:52 IST 2017
+2.base=/home/csh/AndroidStudioProjects/MyAndroidApp1/app/build/intermediates/res/resources-debug.ap_
+5.file=/home/csh/AndroidStudioProjects/MyAndroidApp1/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=/home/csh/AndroidStudioProjects/MyAndroidApp1/app/build/intermediates/res/resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=/home/csh/AndroidStudioProjects/MyAndroidApp1/app/build/intermediates/res/resources-debug.ap_
+count=6
+0.file=/home/csh/AndroidStudioProjects/MyAndroidApp1/app/build/intermediates/res/resources-debug.ap_/res/drawable/ic_launcher.png
+5.base=/home/csh/AndroidStudioProjects/MyAndroidApp1/app/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=/home/csh/AndroidStudioProjects/MyAndroidApp1/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/ic_launcher.png
+1.set=ANDROID_RESOURCE
+2.file=/home/csh/AndroidStudioProjects/MyAndroidApp1/app/build/intermediates/res/resources-debug.ap_/res/layout/webview.xml
+0.base=/home/csh/AndroidStudioProjects/MyAndroidApp1/app/build/intermediates/res/resources-debug.ap_
+3.file=/home/csh/AndroidStudioProjects/MyAndroidApp1/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=/home/csh/AndroidStudioProjects/MyAndroidApp1/app/build/intermediates/res/resources-debug.ap_
+4.file=/home/csh/AndroidStudioProjects/MyAndroidApp1/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+0.set=ANDROID_RESOURCE

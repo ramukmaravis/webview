@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/csh/AndroidStudioProjects/MyAndroidApp1/app/build/intermediates/res/merged/debug/drawable/ic_launcher.png",
+        "source": "/home/csh/AndroidStudioProjects/MyAndroidApp1/app/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sivaram/Downloads/MyAndroidApp1/app/build/intermediates/res/merged/debug/drawable/ic_launcher.png",
+        "source": "/home/sivaram/Downloads/MyAndroidApp1/app/src/main/res/drawable/ic_launcher.png"
+    }
+]
